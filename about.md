@@ -12,4 +12,4 @@ This blog is for the final project of my CSE199 class.
 
 ### Contact me
 
-[bohanghu@buffalo.edu](bohanghu@buffalo.edu)
+bohanghu@buffalo.edu

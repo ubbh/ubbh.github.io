@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Bohang. I am a conputer science student at UB.
+My name is Bohang. I am a computer science student at UB.
 
 ### More Information
 
